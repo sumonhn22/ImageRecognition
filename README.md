@@ -1,4 +1,4 @@
-# The notebooks are discussed following Three use cases for Image Recognition: 
+# The notebooks discuss following three use cases for Image Recognition: 
 
 1. Cats vs Dogs prediction using augmentation
 
