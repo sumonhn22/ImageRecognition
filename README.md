@@ -1,4 +1,4 @@
-# Following three (03) use cases for Image Recognition are discussed: 
+# Following three (03) use cases for Image Recognition are discussed here: 
 
 1. Cats vs Dogs prediction using augmentation, 
 [link](https://github.com/sumonhn22/ImageRecognition/blob/main/ImageRecognition/Cats_Dogs_aug_validation.ipynb) .
